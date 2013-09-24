@@ -18,6 +18,6 @@ php tools/bake.php %IMPACT_LIBRARY% %GAME% %OUTPUT_FILE%
 :: If you dont have the php.exe in your PATH uncomment the
 :: following line and point it to your php.exe
 
-::c:/php/php.exe tools/bake.php %IMPACT_LIBRARY% %GAME% %OUTPUT_FILE%
+c:/xampp/php/php.exe tools/bake.php %IMPACT_LIBRARY% %GAME% %OUTPUT_FILE%
 
 pause
